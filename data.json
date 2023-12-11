@@ -1,0 +1,382 @@
+[
+    {
+        "name": "Asas",
+        "year": "1929"
+    },
+    {
+        "name": "Melodia na Broadway",
+        "year": "1930"
+    },
+    {
+        "name": "Nada de Novo no Front / Sem Novidades no Front",
+        "year": "1930"
+    },
+    {
+        "name": "Cimarron",
+        "year": "1931"
+    },
+    {
+        "name": "Grande Hotel",
+        "year": "1932"
+    },
+    {
+        "name": "Cavalgada",
+        "year": "1934"
+    },
+    {
+        "name": "Aconteceu Naquela Noite",
+        "year": "1935"
+    },
+    {
+        "name": "O Grande Motim",
+        "year": "1936"
+    },
+    {
+        "name": "Ziegfeld - O Criador de Estrelas ",
+        "year": "1937"
+    },
+    {
+        "name": "Émile Zola",
+        "year": "1938"
+    },
+    {
+        "name": "Do Mundo Nada Se Leva",
+        "year": "1939"
+    },
+    {
+        "name": "…E o Vento Levou",
+        "year": "1940"
+    },
+    {
+        "name": "Rebecca - A Mulher Inesquecível",
+        "year": "1941"
+    },
+    {
+        "name": "Como Era Verde o Meu Vale",
+        "year": "1942"
+    },
+    {
+        "name": "Rosa de Esperança",
+        "year": "1943"
+    },
+    {
+        "name": "Casablanca",
+        "year": "1944"
+    },
+    {
+        "name": "O Bom Pastor",
+        "year": "1945"
+    },
+    {
+        "name": "Farrapo Humano",
+        "year": "1946"
+    },
+    {
+        "name": "Os Melhores Anos de Nossas Vidas",
+        "year": "1947"
+    },
+    {
+        "name": "A Luz É Para Todos",
+        "year": "1948"
+    },
+    {
+        "name": "Hamlet",
+        "year": "1949"
+    },
+    {
+        "name": "A Grande Ilusão",
+        "year": "1950"
+    },
+    {
+        "name": "A Malvada",
+        "year": "1951"
+    },
+    {
+        "name": "Sinfonia de Paris",
+        "year": "1952"
+    },
+    {
+        "name": "O Maior Espetáculo da Terra",
+        "year": "1953"
+    },
+    {
+        "name": "A Um Passo da Eternidade",
+        "year": "1954"
+    },
+    {
+        "name": "Sindicato de Ladrões",
+        "year": "1955"
+    },
+    {
+        "name": "Marty",
+        "year": "1956"
+    },
+    {
+        "name": "A Volta ao Mundo em 80 Dias",
+        "year": "1957"
+    },
+    {
+        "name": "A Ponte do Rio Kwai",
+        "year": "1958"
+    },
+    {
+        "name": "Gigi",
+        "year": "1959"
+    },
+    {
+        "name": "Ben-Hur",
+        "year": "1960"
+    },
+    {
+        "name": "Se Meu Apartamento Falasse",
+        "year": "1961"
+    },
+    {
+        "name": "Amor, Sublime Amor",
+        "year": "1962"
+    },
+    {
+        "name": "Lawrence da Arábia",
+        "year": "1963"
+    },
+    {
+        "name": "As Aventuras de Tom Jones",
+        "year": "1964"
+    },
+    {
+        "name": "Minha Bela Dama",
+        "year": "1965"
+    },
+    {
+        "name": "A Noviça Rebelde",
+        "year": "1966"
+    },
+    {
+        "name": "O Homem Que Não Vendeu Sua Alma",
+        "year": "1967"
+    },
+    {
+        "name": "No Calor da Noite",
+        "year": "1968"
+    },
+    {
+        "name": "Oliver!",
+        "year": "1969"
+    },
+    {
+        "name": "Perdidos na Noite",
+        "year": "1970"
+    },
+    {
+        "name": "Patton, Rebelde ou Herói?",
+        "year": "1971"
+    },
+    {
+        "name": "Operação França",
+        "year": "1972"
+    },
+    {
+        "name": "O Poderoso Chefão",
+        "year": "1973"
+    },
+    {
+        "name": "Golpe de Mestre",
+        "year": "1974"
+    },
+    {
+        "name": "O Poderoso Chefão: Parte 2",
+        "year": "1975"
+    },
+    {
+        "name": "Um Estranho no Ninho",
+        "year": "1976"
+    },
+    {
+        "name": "Rocky, um Lutador",
+        "year": "1977"
+    },
+    {
+        "name": "Noivo Neurótico, Noiva Nervosa",
+        "year": "1978"
+    },
+    {
+        "name": "O Franco-Atirador",
+        "year": "1979"
+    },
+    {
+        "name": "Kramer Versus Kramer",
+        "year": "1980"
+    },
+    {
+        "name": "Gente Como a Gente",
+        "year": "1981"
+    },
+    {
+        "name": "Carruagens de Fogo",
+        "year": "1982"
+    },
+    {
+        "name": "Gandhi",
+        "year": "1983"
+    },
+    {
+        "name": "Laços de Ternura",
+        "year": "1984"
+    },
+    {
+        "name": "Amadeus",
+        "year": "1985"
+    },
+    {
+        "name": "Entre Dois Amores",
+        "year": "1986"
+    },
+    {
+        "name": "Platoon",
+        "year": "1987"
+    },
+    {
+        "name": "O Último Imperador",
+        "year": "1988"
+    },
+    {
+        "name": "Rain Man",
+        "year": "1989"
+    },
+    {
+        "name": "Conduzindo Miss Daisy",
+        "year": "1990"
+    },
+    {
+        "name": "Dança com Lobos",
+        "year": "1991"
+    },
+    {
+        "name": "O Silêncio dos Inocentes",
+        "year": "1992"
+    },
+    {
+        "name": "Os Imperdoáveis",
+        "year": "1993"
+    },
+    {
+        "name": "A Lista de Schindler",
+        "year": "1994"
+    },
+    {
+        "name": "Forrest Gump - O Contador de Histórias",
+        "year": "1995"
+    },
+    {
+        "name": "Coração Valente",
+        "year": "1996"
+    },
+    {
+        "name": "O Paciente Inglês",
+        "year": "1997"
+    },
+    {
+        "name": "Titanic",
+        "year": "1998"
+    },
+    {
+        "name": "Shakespeare Apaixonado",
+        "year": "1999"
+    },
+    {
+        "name": "Beleza Americana",
+        "year": "2000"
+    },
+    {
+        "name": "Gladiador",
+        "year": "2001"
+    },
+    {
+        "name": "Uma Mente Brilhante",
+        "year": "2002"
+    },
+    {
+        "name": "Chicago",
+        "year": "2003"
+    },
+    {
+        "name": "O Senhor dos Anéis: O Retorno do Rei",
+        "year": "2004"
+    },
+    {
+        "name": "Menina de Ouro",
+        "year": "2005"
+    },
+    {
+        "name": "Crash - No Limite",
+        "year": "2006"
+    },
+    {
+        "name": "Os Infiltrados",
+        "year": "2007"
+    },
+    {
+        "name": "Onde os Fracos Não Têm Vez",
+        "year": "2008"
+    },
+    {
+        "name": "Quem Quer Ser Um Milionário?",
+        "year": "2009"
+    },
+    {
+        "name": "Guerra ao Terror",
+        "year": "2010"
+    },
+    {
+        "name": "O Discurso do Rei",
+        "year": "2011"
+    },
+    {
+        "name": "O Artista",
+        "year": "2012"
+    },
+    {
+        "name": "Argo",
+        "year": "2013"
+    },
+    {
+        "name": "12 Anos de Escravidão",
+        "year": "2014"
+    },
+    {
+        "name": "Birdman ou (A Inesperada Virtude da Ignorância)",
+        "year": "2015"
+    },
+    {
+        "name": "Spotlight: Segredos Revelados",
+        "year": "2016"
+    },
+    {
+        "name": "Moonlight: Sob a Luz do Luar",
+        "year": "2017"
+    },
+    {
+        "name": "A Forma da Água",
+        "year": "2018"
+    },
+    {
+        "name": "Green Book: O Guia",
+        "year": "2019"
+    },
+    {
+        "name": "Parasita",
+        "year": "2020"
+    },
+    {
+        "name": "Nomadland",
+        "year": "2021"
+    },
+    {
+        "name": "No Ritmo do Coração",
+        "year": ""
+    },
+    {
+        "name": "Tudo em Todo Lugar ao Mesmo Tempo",
+        "year": ""
+    }
+]
